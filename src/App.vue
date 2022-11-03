@@ -1,12 +1,13 @@
 <script setup>
 import DeclarativeRenderingVue from './components/docs/Chap1-introduction/DeclarativeRendering.vue'
 import UserInputHandling2 from './components/docs/Chap1-introduction/UserInputHandling-2.vue';
+import ConditionalStatementsAndLoops1 from './components/docs/Chap1-introduction/ConditionalStatementsAndLoops-1.vue'; './components/docs/Chap1-introduction/ConditionalStatementsAndLoops-1.vue'
 </script>
 
 <template>
   <header>
     <div class="wrapper">
-      <UserInputHandling2 />
+      <ConditionalStatementsAndLoops1 />
     </div>
   </header>
 
